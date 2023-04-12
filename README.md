@@ -4,7 +4,7 @@
 
 #### На данный момент я являюсь выпускником курса Я.Практикум и нахожусь в процессе поиска работы. ####
 
----
+- - -
 
 ### Мой стек ###
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
