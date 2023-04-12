@@ -1,6 +1,6 @@
-<h1 align="center">Всем привет, меня зовут Кирилл! Я начинающий frontend-разработчик 
+<h1 align="center">Всем привет, меня зовут Кирилл!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я начинающий frontend-разработчик</h3>
 
 <!--
 **Kirill-Kor/Kirill-Kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
